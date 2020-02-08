@@ -41,7 +41,7 @@ Setelah selesai, kita bisa langsung klik Finish.
    ![config](config.png)
    
    ## Mengelola Repo 
-   ![Rapo](Rapo.png)
-   ![Rapo1](Rapo1.png)
+   ![Repo](Rapo.png)
+   ![Repo1](Rapo1.png)
    
    
